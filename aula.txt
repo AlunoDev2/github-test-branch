@@ -1,0 +1,4 @@
+Estamos testando o uso doe branchs com hithub.
+Essa forma de trabalho é muito interessante,
+pois é pssível trabalhar em grupos
+usando somente um projeto.
